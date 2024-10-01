@@ -6,7 +6,7 @@ To run the application:
    
 1. Clone this repository or download the source code:
    ```
-   git clone https://github.com/yourusername/advanced-file-summarizer.git
+   git clone https://github.com/mixelpixx/summary-tool.git
    cd advanced-file-summarizer
    ```
 
