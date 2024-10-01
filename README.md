@@ -1,21 +1,10 @@
-## Prerequisites
-
-
-## Installation
-
 1. Clone this repository or download the source code.
 2. Install the required dependencies:
+
+## Usage
+
+1. Run the application:
 =======
-## Prerequisites
-
-Before you begin, ensure you have the following:
-
-- Python 3.7 or higher installed on your system
-- An OpenAI API key (sign up at https://openai.com if you don't have one)
-- Basic familiarity with running Python scripts from the command line
-
-## Installation
-
 1. Clone this repository or download the source code:
    ```
    git clone https://github.com/yourusername/advanced-file-summarizer.git
@@ -40,7 +29,7 @@ Before you begin, ensure you have the following:
    ```
    python sumsum3.py
    ```
-
+   
 2. The Gradio interface will launch in your default web browser.
 
 3. Use the interface to:
@@ -82,5 +71,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact Information
 
-1. Clone this repository or download the source code.
-2. Install the required dependencies:
+For any questions or support, please contact [your email/contact information here].
