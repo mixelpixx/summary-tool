@@ -1,10 +1,9 @@
-1. Clone this repository or download the source code.
-2. Install the required dependencies:
+Clone this repository or download the source code.
+Install the required dependencies:
 
 ## Usage
-
-1. Run the application:
-=======
+To run the application:
+   
 1. Clone this repository or download the source code:
    ```
    git clone https://github.com/yourusername/advanced-file-summarizer.git
