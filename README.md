@@ -7,7 +7,7 @@ To run the application:
 1. Clone this repository or download the source code:
    ```
    git clone https://github.com/mixelpixx/summary-tool.git
-   cd advanced-file-summarizer
+   cd summary-tool
    ```
 
 2. Install the required dependencies:
